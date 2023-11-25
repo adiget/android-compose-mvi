@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GithubApp</string>
+
+    <!--Start-->
+    <string name="app_tagline">Github Look Up</string>
+    <string name="user_name">User Name</string>
+    <string name="placeholder_username">User Name</string>
+    <string name="user_continue">Continue</string>
+    <string name="back">Back</string>
+    <string name="repositories">Repositories</string>
+    <string name="pull_requests">Pull Requests</string>
+    <string name="user_profile_photo">User Profile Photo</string>
+    <string name="users_list_header">Users from public Github Api</string>
+    <string name="users_screen_snackbar_loaded_message">Users are loaded.</string>
+    <string name="users_screen_top_bar_title">Github Users</string>
+    <string name="network_error_retry_button_text">Try again</string>
+    <string name="network_error_description">A network error occurred. Check your connection or try again</string>
+    <string name="network_error_title">Oh no!</string>
+    <!--End-->
+</resources>
