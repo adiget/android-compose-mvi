@@ -1,4 +1,4 @@
-package com.example.githubapp.ui.compose
+package com.example.githubapp.ui.common
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column

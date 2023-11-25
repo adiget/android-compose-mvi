@@ -31,8 +31,8 @@ import androidx.compose.ui.unit.dp
 import androidx.hilt.navigation.compose.hiltViewModel
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import com.example.githubapp.R
-import com.example.githubapp.ui.compose.CircularProgressBar
-import com.example.githubapp.ui.compose.GitHubAppTopAppBar
+import com.example.githubapp.ui.common.CircularProgressBar
+import com.example.githubapp.ui.common.GitHubAppTopAppBar
 import com.example.githubapp.ui.repos.ReposContract
 import com.example.githubapp.ui.repos.ReposViewModel
 import com.example.githubapp.ui.repos.model.UiRepoData

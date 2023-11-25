@@ -38,8 +38,8 @@ import coil.compose.AsyncImage
 import coil.request.ImageRequest
 import com.example.githubapp.R
 import com.example.githubapp.presentation.views.views.UserView
-import com.example.githubapp.ui.compose.CircularProgressBar
-import com.example.githubapp.ui.compose.GitHubAppTopAppBar
+import com.example.githubapp.ui.common.CircularProgressBar
+import com.example.githubapp.ui.common.GitHubAppTopAppBar
 import com.example.githubapp.ui.prs.PrsContract
 import com.example.githubapp.ui.prs.PrsViewModel
 import com.example.githubapp.ui.prs.model.UiPrData

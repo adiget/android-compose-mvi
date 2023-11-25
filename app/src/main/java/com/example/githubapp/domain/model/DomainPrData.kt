@@ -1,7 +1,5 @@
 package com.example.githubapp.domain.model
 
-import com.example.githubapp.domain.model.User
-
 data class DomainPrData(
     var id : Int = -1,
     var desc : String = "",

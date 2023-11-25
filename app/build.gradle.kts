@@ -134,7 +134,6 @@ dependencies {
     androidTestImplementation("io.mockk:mockk-android:$mockkVersion")
     androidTestImplementation("io.mockk:mockk-agent:$mockkVersion")
     androidTestImplementation("app.cash.turbine:turbine:$turbine")
-//    androidTestImplementation("org.jetbrains.kotlin:kotlin-test:1.7.0")
     debugImplementation("androidx.compose.ui:ui-tooling")
     debugImplementation("androidx.compose.ui:ui-test-manifest")
 }
